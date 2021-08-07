@@ -1,5 +1,9 @@
 {
   "name": "Oleg",
   "city": "Odessa",
-  "score": "0"
+    "names": [
+    	"Viktor", 
+    	"Alex",
+    	"Oleksii"
+    ]
 }
